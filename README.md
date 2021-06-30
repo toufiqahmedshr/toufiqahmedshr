@@ -2,7 +2,6 @@
 
 I'm Toufiq Ahmed a passionate programmer and tech enthusiast. I'm interested in computer science and machine learning.
 . . .
-. . .
 
 
 ## Social Media Links
