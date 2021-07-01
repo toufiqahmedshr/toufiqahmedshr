@@ -38,9 +38,8 @@ I'm Toufiq Ahmed a passionate programmer and tech enthusiast. I'm interested in 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=toufiq-ahmed)
 
 ### GitHub Status
-<a href="https://github.com/toufiq-ahmed/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=toufiq-ahmed&show_icons=true&include_all_commits=true&theme=radical" alt="Toufiq's github stats" />
-</a>
+![Jirka's github stats](https://github-readme-stats.vercel.app/api?username=borda&show_icons=true&count_private=true)
+
 <a href="https://github.com/toufiq-ahmed/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=toufiq-ahmed&layout=compact&theme=radical" />
