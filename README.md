@@ -11,6 +11,10 @@
 
 ### GitHub Status
 
-![Toufiq's github stats](https://github-readme-stats.vercel.app/api?username=toufiq-ahmed&show_icons=true&count_private=true)
+<a href="https://github.com/toufiq-ahmed/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toufiq-ahmed&show_icons=true&count_private=true" alt="Toufiq's github stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq-ahmed&layout=compact)](https://github.com/toufiq-ahmed/github-readme-stats)
+<a href="https://github.com/toufiq-ahmed/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq-ahmed&layout=compact)](https://github.com/toufiq-ahmed/github-readme-stats" />
+</a>
