@@ -12,3 +12,5 @@
 ### GitHub Status
 
 ![Toufiq's github stats](https://github-readme-stats.vercel.app/api?username=toufiq-ahmed&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq-ahmed&layout=compact)](https://github.com/toufiq-ahmed/github-readme-stats)
