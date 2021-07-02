@@ -16,5 +16,5 @@
 </a>
 
 <a href="https://github.com/toufiq-ahmed/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq-ahmed=compact" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq-ahmed&layout=compact)](https://github.com/toufiq-ahmed/github-readme-stats)
 </a>
