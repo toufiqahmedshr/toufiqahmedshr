@@ -13,7 +13,6 @@ I'm Toufiq, a student and developer from <img src="https://image.flaticon.com/ic
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Responses</b></td>
     </tr>
   </thead>
   <tbody>
